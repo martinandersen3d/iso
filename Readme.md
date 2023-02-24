@@ -43,3 +43,7 @@ ISO 8601 also includes a format for representing date and time together, which i
 
 **ISO 3166-2** - This is a standard for representing country subdivisions, including regions that may have their own timezone offset. Each subdivision has a code consisting of two parts: the ISO 3166-1 alpha-2 country code and a subdivision code. The subdivision code can include a numeric code for the timezone offset, such as "US-CA" for California, which is in the Pacific Time Zone (UTC-08:00 during standard time and UTC-07:00 during daylight saving time).
 
+
+# Links
+https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes
+https://gist.github.com/ssskip/5a94bfcd2835bf1dea52
